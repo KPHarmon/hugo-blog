@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://kind-agnesi-44b82b.netlify.com/"  # Include trailing slash
 title = "Hugo Themes"
 theme = "hugo-swift-theme"
 author = "Kade Harmon"
