@@ -1,7 +1,15 @@
----
-title: "Hello World"
-date: 2019-08-12T22:32:08-07:00
-draft: false
----
++++
+title = "Hello World"
+description = "Test things"
+tags = [
+    "test",
+    "tutorial",
+]
+date = "2019-08-12"
+categories = [
+    "Testing",
+    "Thing",
+]
++++
 
 Test 123123
